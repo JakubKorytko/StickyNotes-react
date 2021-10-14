@@ -1,0 +1,10 @@
+.field {
+    width: 90%;
+    font-size: 20px;
+    height: 200px;
+    background-color: wheat;
+    resize: none;
+    color: black;
+    margin: 0;
+    padding: 10px 4.5%;
+}
