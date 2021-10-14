@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StickyNotes-react/static/css/main.64b4f33c.chunk.css",
+    "main.js": "/StickyNotes-react/static/js/main.b46f3900.chunk.js",
+    "main.js.map": "/StickyNotes-react/static/js/main.b46f3900.chunk.js.map",
+    "runtime-main.js": "/StickyNotes-react/static/js/runtime-main.5d1d5eba.js",
+    "runtime-main.js.map": "/StickyNotes-react/static/js/runtime-main.5d1d5eba.js.map",
+    "static/js/2.79c5ba31.chunk.js": "/StickyNotes-react/static/js/2.79c5ba31.chunk.js",
+    "static/js/2.79c5ba31.chunk.js.map": "/StickyNotes-react/static/js/2.79c5ba31.chunk.js.map",
+    "static/js/3.baa3aad5.chunk.js": "/StickyNotes-react/static/js/3.baa3aad5.chunk.js",
+    "static/js/3.baa3aad5.chunk.js.map": "/StickyNotes-react/static/js/3.baa3aad5.chunk.js.map",
+    "index.html": "/StickyNotes-react/index.html",
+    "static/css/main.64b4f33c.chunk.css.map": "/StickyNotes-react/static/css/main.64b4f33c.chunk.css.map",
+    "static/js/2.79c5ba31.chunk.js.LICENSE.txt": "/StickyNotes-react/static/js/2.79c5ba31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d1d5eba.js",
+    "static/js/2.79c5ba31.chunk.js",
+    "static/css/main.64b4f33c.chunk.css",
+    "static/js/main.b46f3900.chunk.js"
+  ]
+}
