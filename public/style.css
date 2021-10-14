@@ -1,5 +1,5 @@
 body {
-    background-image: url('/board.jpg');
+    background-image: url('./board.jpg');
     background-size: 120%;
     background-position: center;
 }
