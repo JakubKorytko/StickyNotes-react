@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/StickyNotes-react/static/css/main.64b4f33c.chunk.css",
-    "main.js": "/StickyNotes-react/static/js/main.b46f3900.chunk.js",
-    "main.js.map": "/StickyNotes-react/static/js/main.b46f3900.chunk.js.map",
+    "main.js": "/StickyNotes-react/static/js/main.6d3da346.chunk.js",
+    "main.js.map": "/StickyNotes-react/static/js/main.6d3da346.chunk.js.map",
     "runtime-main.js": "/StickyNotes-react/static/js/runtime-main.5d1d5eba.js",
     "runtime-main.js.map": "/StickyNotes-react/static/js/runtime-main.5d1d5eba.js.map",
     "static/js/2.79c5ba31.chunk.js": "/StickyNotes-react/static/js/2.79c5ba31.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5d1d5eba.js",
     "static/js/2.79c5ba31.chunk.js",
     "static/css/main.64b4f33c.chunk.css",
-    "static/js/main.b46f3900.chunk.js"
+    "static/js/main.6d3da346.chunk.js"
   ]
 }
